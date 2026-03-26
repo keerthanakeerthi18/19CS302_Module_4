@@ -16,8 +16,8 @@ To write a C program to find minimum between three fraction numbers using condit
 ```
 /*
 C program to find minimum between three fraction numbers using conditional operator.
-Developed by: HARSHITHA.Y
-RegisterNumber:  212222060081
+Developed by: KEERTHANA P
+RegisterNumber:  212222060119
 */
 #include <stdio.h>
 int main() {
