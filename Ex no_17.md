@@ -17,8 +17,8 @@ To write a C Program to compare two strings without using strcmp().
 ```
 /*
  C Program to compare two strings without using strcmp().
-Developed by: HARSHITHA.Y
-RegisterNumber:  212222060081
+Developed by: KEERTHANA P
+RegisterNumber:  212222060119
 */
 #include <stdio.h>
 int main() {
